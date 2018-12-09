@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(Dec 9 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Sara Dunn)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Combining ajax, jquery, json, and api to create a weather application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://saraadunn.github.io/extracredit/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Using a weather api to get information about the weather)
+2. (adding Id's to create 4 more days)
+3. (using ajax to input the information for the highs and lows)
+4. (changing the values of the days from 3 to 10)
+5. (using arrays to change the information of the days)
 
